@@ -18,8 +18,8 @@ That's it... but, actually you can [do more](https://github.com/Thor-x86/varl/bl
 
 ## Last Revision
 
-    **[1.0.2]**
-    - Change "malicious" to better word "miscellaneous"
+    **[1.0.3]**
+    - Fix broken link
 
 (See [page 5](https://github.com/Thor-x86/varl/blob/master/docs/5-Contribution.md) for making changes)
 

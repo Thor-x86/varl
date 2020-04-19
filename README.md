@@ -1,4 +1,4 @@
-# .varl (VARiable List) v1.0.2  
+# .varl (VARiable List) v1.0.3  
   
 The simplest way to transfer data or store as configuration file.  
   
@@ -55,4 +55,4 @@ Contributors are welcome to adopt on any programming language :)
 
 ## How do I contribute?
   
-We have documented how to properly contribute [at here](https://github.com/Thor-x86/varl/blob/master/docs/5-contribution.md).  
+We have documented how to properly contribute [at here](https://github.com/Thor-x86/varl/blob/master/docs/5-Contribution.md).  
