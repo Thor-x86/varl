@@ -1,4 +1,4 @@
-# .varl (VARiable List) v1.0.0  
+# .varl (VARiable List) v1.0.1  
   
 The simplest way to transfer data or store as configuration file.  
   
