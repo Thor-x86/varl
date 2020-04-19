@@ -1,4 +1,4 @@
-# .varl (VARiable List) v1.0.1  
+# .varl (VARiable List) v1.0.2  
   
 The simplest way to transfer data or store as configuration file.  
   
@@ -44,7 +44,7 @@ If you convert configuration.varl into JSON:
 In .varl, simplicity is the main goal. Therefore:  
 
 - No excess mandatory characters as example root bracket "{ }" and commas on JSON. The cool thing is you're not always require double quote to mark the string, the .varl decoder will automatically detect every standard data type.
-- Doesn't require malicious structure such as dictionary, collection, tables, etc. Just key and value pairs with array and object compatible. Keep it simple!
+- Doesn't require miscellaneous structure such as dictionary, collection, tables, etc. Just key and value pairs with array and object compatible. Keep it simple!
 - Unlike .ini format, the .varl format is standardized. That's why this documentation repository is created.
   
 ## How to implement?  

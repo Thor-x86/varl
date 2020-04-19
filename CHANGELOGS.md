@@ -1,5 +1,8 @@
 # Changelogs
 
+    **[1.0.2]**
+    - Change "malicious" to better word "miscellaneous" 
+
     **[1.0.1]**
     - Change blockquote into regular text at 2nd page because
       github cannot handle newline inside blockquote
