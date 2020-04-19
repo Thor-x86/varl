@@ -39,11 +39,11 @@ Job of double quote marks is similar to single quote marks but allows [escaped c
 
 You need to know that .varl only uses universal frequently applied escape characters (for sake of simplicity) as listed below.
 
-> **\n** => New Line (a.k.a. Enter)
-> **\t** => Tab
-> **\\\\** => Backlash ( \\ )
-> **\\\'** => Single quote ( ' )
-> **\\\"** => Double quote ( " )
+**\n** => New Line (a.k.a. Enter)
+**\t** => Tab
+**\\\\** => Backlash ( \\ )
+**\\\'** => Single quote ( ' )
+**\\\"** => Double quote ( " )
 
 Keep in mind that .varl uses UTF-8 encoding which is supports variety of characters including emojis 🤓.
 
